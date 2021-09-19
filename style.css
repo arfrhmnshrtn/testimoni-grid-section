@@ -89,3 +89,9 @@ body{
         'kira kira kira kira kira';
     }
 }
+
+@media screen and (max-width: 600px){
+    .wrapper{
+        margin: 2rem 1rem;
+    }
+}
